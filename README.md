@@ -10,7 +10,7 @@ JavaScript | NodeJS | PostgresSQL | Sequelize | React | Redux | Git + Github
 
 <!-- Sección de cómo contactar -->
 ## 📫 Cómo contactarme
-Puedes enviarme un correo electrónico a gonzaasd7@gmail.com   
+Puedes enviarme un correo electrónico a gonzalodavidbaeznoriega@gmail.com   
 Mi [Linkedin](https://www.linkedin.com/in/gonzalo-david-baez-noriega/)   
 Mi celular 1161159151
 
